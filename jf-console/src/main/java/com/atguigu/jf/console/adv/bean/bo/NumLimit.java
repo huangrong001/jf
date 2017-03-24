@@ -1,5 +1,6 @@
 package com.atguigu.jf.console.adv.bean.bo;
 //branch01
+//branch02
 public class NumLimit {
 	
 	private Long maxOrder;
